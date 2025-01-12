@@ -6,4 +6,4 @@
 </h3>
 
 ## 🛠 What it does
-The function ```convertToFlash(string str)``` transforms the text to flashing its translation into morse code repeteadly.
+The function ```convertToFlash(string str)``` transforms the text to flashing its translation into morse code repeteadly using the flash light (Pin 4).
