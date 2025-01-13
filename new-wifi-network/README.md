@@ -8,3 +8,5 @@
 ## 🛠 What it does
 Creates a new Wifi network with the name saved in the variable  ```char* ssid``` and password in ```char* password``` with port 80 including a basic web done in raw HTML. To access the web you must connect to that network and put in your browser the IP specified in the Serial console.
 
+Once you write the hash of data into the chip you only need to connect it to a power supply to create the network, without needing an IDE.
+
