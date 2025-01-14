@@ -110,7 +110,6 @@ void setup() {
   // Inicializar cámara
   if (!initCamera()) {
     Serial.println("Fallo en la configuración de la cámara");
-    while (true);
   }
 
   // Configurar Wi-Fi
